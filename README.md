@@ -92,13 +92,13 @@ streamlit run app.py
 ## Ejercicio para la clase
 
 
-## Elbaorado por:
-
-Carlos Carrillo
-
 1. Cambiar los valores del interés simple.
 2. Realizar el cálculo.
 3. Ir al módulo de interés compuesto.
 4. Regresar al interés simple.
 5. Comprobar que los valores continúan guardados.
 6. Abrir la sección `Ver datos guardados en session_state`.
+
+## Elbaorado por:
+
+Carlos Carrillo
